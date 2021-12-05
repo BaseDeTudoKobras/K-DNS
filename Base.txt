@@ -49,7 +49,10 @@
 {"nome":"Arthur A Guerra Dos Dois Mundos","ano":"2010","dur":"1h : 32m","img":"https://","link":"http://comandopc.playhdlugo.online:80/token.mp4/?e=/token=2mh1638296438/flm21/ArthurAGuerraDosDoisMundos2010.mp4"},
 
 
-{"nome":"A Serpente Verde","ano":"2021","dur":"1h : 32m","img":"https://","link":"http://comandopc.playhdlugo.online:80/token.mp4/?e=/token=2mh1638296438/flm21/ASerpenteVerde2021.mp4"}
+{"nome":"A Serpente Verde","ano":"2021","dur":"1h : 32m","img":"https://","link":"http://comandopc.playhdlugo.online:80/token.mp4/?e=/token=2mh1638296438/flm21/ASerpenteVerde2021.mp4"},
+
+
+{"nome":"Hora do Rush","ano":"1998","dur":"1h : 32m","img":"http://xcui.vitvabc.xyz:8880/images/a4084d34b7ce452eba2ca486c77d8241.jpg","link":"http://xcui.vitvabc.xyz:8880/movie/287994000027/287994000027/10328.mp4"}
 
 
 ]'},
