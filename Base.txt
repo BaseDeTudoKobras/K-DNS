@@ -1,54 +1,81 @@
 [{"CatFilmes":"AÇÃO","itens":'[
 
+
 {"nome":"Programada para Matar","ano":"2021","dur":"1h : 22m","img":"https://image.tmdb.org/t/p/w185/eXENORB2EAbO7OUE7CfZRSdYoua.jpg","link":"https://player.uauflix.online/tt9126944"},
+
 
 {"nome":"Venom Tempo de Carnificina","ano":"2021","dur":"1h : 32m","img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pcbL72T2xvd729grrPNulPhlhph.jpg","link":"https://player.uauflix.online/tt7097896"},
 
+
 {"nome":"Shang-Chi e a Lenda dos Dez Anéis","ano":"2021","dur":"1h : 32m","img":"https://image.tmdb.org/t/p/w185/6T0r3jBs0xbmzVnM9u7e3vUXMYk.jpg","link":"https://player.uauflix.online/tt9376612"},
+
 
 {"nome":"Alerta Vermelho","ano":"2021","dur":"1h : 32m","img":"https://image.tmdb.org/t/p/w185/u9RnTxnyN8d9ypBp84LwZ2O8Q3S.jpg","link":"https://player.uauflix.online/tt7991608"},
 
+
 {"nome":"O Último Mercenário","ano":"2021","dur":"1h : 32m","img":"https://image.tmdb.org/t/p/w185/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg","link":"https://player.uauflix.online/tt12808182"}
 
+
 ]'},
+
 
 {"CatFilmes":"COMÉDIA","itens":'[
 
+
 {"nome":"Amizade de Férias","ano":"2021","dur":"1h : 22m","img":"https://image.tmdb.org/t/p/w185/2IOAGHxkLSDTfdoCxqNiO1pVi4m.jpg","link":"https://player.uauflix.online/tt3626476"},
+
 
 {"nome":"Paternidade","ano":"2021","dur":"1h : 32m","img":"https://image.tmdb.org/t/p/w185/46is3z8ToNs3THEvgRZWuZ9KGz0.jpg","link":"https://player.uauflix.online/tt4733624"},
 
+
 {"nome":"Amor Sem Medida","ano":"2021","dur":"1h : 32m","img":"https://image.tmdb.org/t/p/w185/glFwaNYHhzUa1pao25O2o2aFkxj.jpg","link":"https://player.uauflix.online/tt15863594"},
+
 
 {"nome":"Jungle Cruise: A Maldição Nos Confins Da Selva","ano":"2021","dur":"1h : 32m","img":"https://image.tmdb.org/t/p/w185/9E76j2DcQv8LdbX1Wa9jpbDBfw1.jpg","link":"https://player.uauflix.online/tt0870154"},
 
+
 {"nome":"A Barraca do Beijo 3","ano":"2021","dur":"1h : 32m","img":"https://image.tmdb.org/t/p/w185/4eXhx1IN1nSWpeHehunvW9j2BSU.jpg","link":"https://player.uauflix.online/tt12783454"}
 
+
 ]'},
+
 
 {"CatFilmes":"OUTROS","itens":'[
 
+
 {"nome":"Batman Morte Em Familia","ano":"2020","dur":"1h : 22m","img":"https://","link":"http://comandopc.playhdlugo.online:80/token.mp4/?e=/token=2mh1638296438/flm21/BatmanMorteEmFamilia2020.mp4"},
+
 
 {"nome":"Arthur A Guerra Dos Dois Mundos","ano":"2010","dur":"1h : 32m","img":"https://","link":"http://comandopc.playhdlugo.online:80/token.mp4/?e=/token=2mh1638296438/flm21/ArthurAGuerraDosDoisMundos2010.mp4"},
 
+
 {"nome":"A Serpente Verde","ano":"2021","dur":"1h : 32m","img":"https://","link":"http://comandopc.playhdlugo.online:80/token.mp4/?e=/token=2mh1638296438/flm21/ASerpenteVerde2021.mp4"}
+
 
 ]'},
 
+
 {"CatFilmes":"DESENHOS","itens":'[
+
 
 {"nome":"Luca","ano":"2020","dur":"1h : 22m","img":"https://image.tmdb.org/t/p/w185/1lk7QISmTam2iOzzUAQYs6voeFg.jpg","link":"https://player.uauflix.online/tt12801262"},
 
+
 {"nome":"A Família Mitchell e a Revolta das Máquinas","ano":"2020","dur":"1h : 36m","img":"https://image.tmdb.org/t/p/w185/gmnAu2G9EvHbUYTiT6eNd6XlaBx.jpg","link":"https://player.uauflix.online/tt7979580"},
+
 
 {"nome":"Um Espião Animal","ano":"2020","dur":"1h : 40m","img":"https://image.tmdb.org/t/p/w185/aAOKVhTESY4tMqjDPn3KW4ugnFn.jpg","link":"https://player.uauflix.online/tt5814534"},
 
+
 {"nome":"A Noiva Cadáver","ano":"2021","dur":"1h : 47m","img":"https://image.tmdb.org/t/p/w185/89B6W9mlTfSxeMEFMSyRBViXy83.jpg","link":"https://player.uauflix.online/tt0121164"},
+
 
 {"nome":"EncrenCão","ano":"2021","dur":"1h : 18m","img":"https://image.tmdb.org/t/p/w185/i81gRwi056tQCjnLL9PKnZ6X3YW.jpg","link":"https://player.uauflix.online/tt6772524"}
 
+
 ]'
 
+
 }]
+
 
