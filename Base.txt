@@ -1,1 +1,1 @@
-{"cat":"DESATIVADO TEMPORARIAMENTE","nome":"DESATIVADO TEMPORARIAMENTE","ano":"0000","dur":"0000","img":"https://images.app.goo.gl/9EkJX375UBje5EHA7","link":" "}
+{"cat":"DESATIVADO TEMPORARIAMENTE","nome":"DESATIVADO TEMPORARIAMENTE","ano":"0000","dur":"0000","img":"https://images.app.goo.gl/9EkJX375UBje5EHA7","link":""}
