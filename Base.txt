@@ -1,1 +1,1 @@
-{"cat":"DESATIVADO TEMPORARIAMENTE","nome":"DESATIVADO TEMPORARIAMENTE","ano":"0000","dur":"0000","img":"https://pixabay.com/pt/vectors/proibido-pare-bloqueado-assinar-6695541/","link":" "}
+{"cat":"DESATIVADO TEMPORARIAMENTE","nome":"DESATIVADO TEMPORARIAMENTE","ano":"0000","dur":"0000","img":"https://cdn.pixabay.com/photo/2021/10/10/04/03/prohibited-6695541_640.png","link":""}
