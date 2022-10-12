@@ -1,0 +1,6 @@
+{
+'Titulo':'BOA NOITE',
+'Texto':'TESTE DE MENSAGEM !',
+'Botao':'ABRIR O TELEGRAM',
+'Valor':'https://t.me/Kobras_Ultra_Max_VPN'
+}
